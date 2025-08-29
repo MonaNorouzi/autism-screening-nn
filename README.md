@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MLP & RBF Neural Networks for Autism Spectrum Disorder (ASD) Screening
 
@@ -108,3 +109,4 @@ This project utilizes the **"Autism Spectrum Disorder Screening Data for Childre
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
