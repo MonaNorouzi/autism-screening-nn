@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # MLP & RBF Neural Networks for Autism Spectrum Disorder (ASD) Screening
 
